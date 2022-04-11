@@ -1,0 +1,19 @@
+public class Java_Variables {
+    public static void main(String[] args) {
+         /**
+          * Example for Java Documentation Comment    
+          * @param parameter Parameter used for method
+           * @return int retrun type 
+         */
+  
+        /*  
+          This   
+          is   
+          multi line   
+          comment  
+         */    
+
+        String name ="Tarak"; // Single line comment
+        System.out.println(name);
+    }
+}
